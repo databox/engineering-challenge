@@ -5,7 +5,6 @@ This challenge is designed to assess how you approach building a small but reali
 
 The assignment is intentionally open ended. There is no single correct solution. We are primarily interested in how you think, structure problems, and explain tradeoffs.
 
----
 
 ## Goal
 Build a service that extracts **raw data** from external data sources and sends it to the Databox platform using the Databox Ingestion API.
@@ -14,7 +13,6 @@ From the ingested raw data, you will then create metrics **inside the Databox ap
 
 The service should be designed with extensibility in mind, as if it were the starting point for a production integration.
 
----
 
 ## Core requirements (all levels)
 These requirements apply to all candidates, regardless of seniority. Depth and completeness expectations vary by level and are described below.
@@ -35,14 +33,12 @@ These requirements apply to all candidates, regardless of seniority. Depth and c
 
 Schema should be treated as a first class artifact. Document how source data maps to your dataset schema.
 
----
 
 ## Technology constraints
 - Use one of the following languages: PHP, .NET, or TypeScript
 - You may choose any framework or libraries you feel are appropriate
 - Use external APIs such as GitHub, Asana, Strava, or another comparable service
 
----
 
 ## Time expectations
 We aim to be respectful of your time.
@@ -53,7 +49,6 @@ We aim to be respectful of your time.
 
 If you feel the scope is too large for the time you have available, document what you would do next and why.
 
----
 
 ## Level specific expectations
 
@@ -75,7 +70,6 @@ What we evaluate:
 
 Architecture documentation is optional and can be brief.
 
----
 
 ### Mid level engineers
 Focus on solid execution and maintainable design.
@@ -95,7 +89,6 @@ What we evaluate:
 
 A short architecture or design explanation is expected.
 
----
 
 ### Senior engineers
 Focus on judgment, tradeoffs, and system design.
@@ -116,7 +109,6 @@ What we evaluate:
 
 A clear architecture and decision narrative in markdown is required.
 
----
 
 ## Optional considerations (primarily senior level)
 - Expose functionality via API endpoints
@@ -125,10 +117,9 @@ A clear architecture and decision narrative in markdown is required.
 
 You may describe these without fully implementing them.
 
----
 
 ## Submission instructions
-- We expect the solution to be submitted within one week, unless agreed otherwise.
+- We expect the solution to be submitted **within one week**, unless agreed otherwise.
 - Provide a link to a Git repository with your solution
 - Include:
   - Instructions to run the service
@@ -138,7 +129,6 @@ You may describe these without fully implementing them.
 
 If the repository is private, grant read access to the specified reviewers: `tadejrola`, `sparkica`
 
----
 
 ## Evaluation philosophy
 We value clarity of thought over completeness. We would rather see a smaller, well reasoned solution than a large, rushed one.
