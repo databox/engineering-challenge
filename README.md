@@ -128,6 +128,7 @@ You may describe these without fully implementing them.
 ---
 
 ## Submission instructions
+- We expect the solution to be submitted within one week, unless agreed otherwise.
 - Provide a link to a Git repository with your solution
 - Include:
   - Instructions to run the service
@@ -148,3 +149,7 @@ During follow up discussions, we will focus on:
 - How you would evolve the solution in a real production environment
 
 Good luck. We look forward to reviewing your work.
+
+## Final note on intellectual property
+
+This repository contains only the challenge description. Candidate submissions remain the candidate’s intellectual property and will not be used in production.
