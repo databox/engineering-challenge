@@ -5,6 +5,11 @@ This challenge is designed to assess how you approach building a small but reali
 
 The assignment is intentionally open ended. There is no single correct solution. We are primarily interested in how you think, structure problems, and explain tradeoffs.
 
+## Documentation
+
+- [Developer documentation](https://developers.databox.com/docs/introduction)
+- [General help](https://help.databox.com/)
+
 
 ## Goal
 Build a service that extracts **raw data** from external data sources and sends it to the Databox platform using the Databox Ingestion API.
